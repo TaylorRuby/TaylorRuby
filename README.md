@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/taylorhargraves/">
   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dako Mihailov| LinkedIn" width="21px"/>
 </a>
+<br/>
 
 ## 🛠️ Skills
 
