@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a **React Developer / React Native Developer / Senior Software Engineer** with over 9 years of experience in software engineering. I have got a **bachelor's degree** in **computer science** and I am currently working as a **full stack engineer** at a SaaS company.
+🎓 I am a **React Developer / React Native Developer / Senior Full Stack Engineer** focused on Frontend with over 9 years of experience in software engineering. I have got a **bachelor's degree** in **computer science**.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. 
 
